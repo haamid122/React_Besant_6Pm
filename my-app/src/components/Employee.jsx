@@ -3,9 +3,10 @@ import React from "react";
 function Employee(props) {
 
      // Destructuring - object destructuring
+  const {empDetails} = props;
+  const { empName, age, city, empCode } = empDetails;
 
-  const { empName, age } = props;
-  const text = `Hai i am ${empName} working as React dev, my age is ${age}`;
+  const text = `Hai i am ${empName} working as React dev, my age is ${age} and my city is ${city}, my emp code is ${empCode}`;
 
   return (
     <>

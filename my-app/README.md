@@ -48,3 +48,10 @@ Functional vs Class
 
 Props in react - property 
 
+Conditional Rendering 
+
+List --- each child in a list should have "unique" key prop
+
+List Keys
+
+
