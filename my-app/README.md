@@ -64,3 +64,20 @@ Satate in objects
 
 updating object in state
 
+Updating arrays in state
+
+UseEffect hook - 
+
+Using useEffect in different ways 
+
+React Forms 
+
+Getting input values from state
+
+
+Event
+
+submmting the form
+
+handling multiple inputs fields
+

@@ -5,6 +5,9 @@ import './App.css'
 import Office from "./components/Office.jsx"
 import FavoriteFood from './components/FavoriteFood.jsx'
 import IplDashboard from './components/IplDashboard.jsx'
+import List from './components/List.jsx'
+import Timer from './components/Timer.jsx'
+import MyForm from './components/MyForm.jsx'
 
 function App() {
 
@@ -13,7 +16,10 @@ function App() {
          <h1>Hai I am a main Component</h1> 
          {/* <Office/>     */}
          {/* <FavoriteFood/> */}
-         <IplDashboard/>
+         {/* <IplDashboard/> */}
+         {/* <List/> */}
+         {/* <Timer/> */}
+         <MyForm/>
     </>
   )
 }
