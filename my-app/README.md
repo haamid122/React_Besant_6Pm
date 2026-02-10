@@ -74,10 +74,13 @@ React Forms
 
 Getting input values from state
 
-
-Event
+Events
 
 submmting the form
 
 handling multiple inputs fields
+
+Simiplifiying onChageHandler   
+
+React Router - 
 
