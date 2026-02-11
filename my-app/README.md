@@ -84,3 +84,11 @@ Simiplifiying onChageHandler
 
 React Router - 
 
+React - Route Parameters 
+
+Nested Routes 
+
+
+
+
+
